@@ -61,8 +61,8 @@ const Extraer = Object.keys(Persona3).map(keys => {
   console.log(values)
 })
 
-const manzana = new comida('Mynor', 'salpicon');
-console.log(manzana.ordenar())
+// const manzana = new comida('Mynor', 'salpicon');
+// console.log(manzana.ordenar())
 
 const NuevaOrden = new Aderesos('Mynor', 'salpicon', 'carne asada');
 console.log(NuevaOrden);
